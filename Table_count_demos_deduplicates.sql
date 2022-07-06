@@ -12,4 +12,5 @@ SELECT val FROM count_demos;
 SELECT DISTINCT val FROM count_demos;
 
 SELECT val FROM count_demos
-WHERE val < 5 && val > 6
+WHERE sqrt(val) > 2;
+
