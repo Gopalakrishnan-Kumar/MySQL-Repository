@@ -5,7 +5,7 @@ CREATE TABLE count_demos (
     );
 
 INSERT INTO count_demos(val) 
-VALUES (-1),(1),(1),(3),(NULL),(3),(4),(6),(NULL),(8),(9),(10);
+VALUES (-1),(1),(1),(3),(NULL),(3),(4),(6),(NULL),(8),(9),(10),(1);
 
 SELECT val FROM count_demos;
 
