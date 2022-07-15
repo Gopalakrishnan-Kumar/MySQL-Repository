@@ -1,0 +1,1 @@
+SELECT * FROM test.us_presidents LIMIT 1;
